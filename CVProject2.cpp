@@ -28,7 +28,7 @@ using std::string;
 static const int MAX_IMAGES = 0;
 
 static const string DATASET_ROOT =
-"C:\\Users\\athit\\Downloads\\caltech101\\caltech-101";
+"enter your dataset";
 
 static const int BRANCH_FACTOR = 8;   // k per node (max)
 static const int MAX_DEPTH = 3;       // max depth of the tree
